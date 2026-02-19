@@ -67,4 +67,4 @@ Lowest performers:
 ✔ Reduce manufacturing cost on high-cost items
 ✔ Prepare inventory & marketing campaigns before Q4 peak season
 
-Screenshot: 
+Screenshot:( https://github.com/kashishsachan251-ctrlKash/Financial-Dashboard/blob/main/Screenshot%202026-02-19%20204744.png)
